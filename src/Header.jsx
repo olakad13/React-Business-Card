@@ -9,7 +9,7 @@ export default function Header() {
             <p className='job'>Frontend DEveloper</p>
             <p>Kayode.website</p>
             <div className='link-container'>
-                <a className='social-link email-link' href="olakad13@gmail.com">
+                <a className='social-link email-link' href="mailto:olakad13@gmail.com">
                     <img src={email} alt=""/>
                     <span>Email</span>
                 </a>
